@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>QML on Thamaraimanalan M - Portfolio</title><link>https://thamaraimanalan.tech/tags/qml/</link><description>Recent content in QML on Thamaraimanalan M - Portfolio</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 25 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://thamaraimanalan.tech/tags/qml/index.xml" rel="self" type="application/rss+xml"/><item><title>Qt Champion 2024 - 3rd Place in Global Qt-athon Competition</title><link>https://thamaraimanalan.tech/blogs/qt-champion-2024-third-place/</link><pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate><guid>https://thamaraimanalan.tech/blogs/qt-champion-2024-third-place/</guid><description>&lt;p&gt;Thrilled to announce that I achieved 3rd place in the Qt-athon 2024 competition! This global event organized by Qt Group brought together developers from around the world to showcase their Qt framework expertise.&lt;/p&gt;
+&lt;p&gt;The competition challenged participants to build innovative applications using Qt framework, pushing the boundaries of what&amp;rsquo;s possible with cross-platform development. My project focused on creating a sophisticated GUI application that demonstrated both technical prowess and user experience design.&lt;/p&gt;</description></item><item><title>Smart Traffic Management - TechForSociety Hackathon by Siemens &amp; NASSCOM Foundation</title><link>https://thamaraimanalan.tech/blogs/smart-traffic-management-techforsociety-hackathon/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate><guid>https://thamaraimanalan.tech/blogs/smart-traffic-management-techforsociety-hackathon/</guid><description>&lt;p&gt;Currently working on an exciting project as part of the TechForSociety hackathon conducted by Siemens and NASSCOM Foundation. This initiative focuses on developing technology solutions for social impact.&lt;/p&gt;
+&lt;h2 id="project-overview"&gt;Project Overview&lt;/h2&gt;
+&lt;p&gt;Our Smart Traffic Management system is designed to revolutionize traffic control at junctions by automatically detecting emergency vehicles and prioritizing their movement through intelligent signal control.&lt;/p&gt;
+&lt;h2 id="key-features-being-developed"&gt;Key features being developed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Emergency vehicle detection using YOLO deep learning models&lt;/li&gt;
+&lt;li&gt;Real-time traffic density analysis for optimal flow control&lt;/li&gt;
+&lt;li&gt;Automated signal control integration with Raspberry Pi&lt;/li&gt;
+&lt;li&gt;Sensor-based traffic monitoring and data collection&lt;/li&gt;
+&lt;li&gt;Manual override capability for traffic authorities&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="technical-implementation"&gt;Technical Implementation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Deep Learning&lt;/strong&gt;: YOLO algorithm implementation on Hailo 8L for ambulance detection&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hardware Integration&lt;/strong&gt;: Raspberry Pi for signal control and sensor management&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Frontend&lt;/strong&gt;: QML-based application for authority interface&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Backend&lt;/strong&gt;: Python-powered system for real-time processing&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;IoT Integration&lt;/strong&gt;: Multiple sensors for comprehensive traffic monitoring&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The project timeline spans from October 2024 to April 2025, giving us ample time to develop, test, and refine the system. This hackathon is providing valuable experience in developing technology solutions that can make a real difference in emergency response times and urban traffic management.&lt;/p&gt;</description></item></channel></rss>

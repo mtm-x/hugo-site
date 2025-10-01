@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Linux on Thamaraimanalan M - Portfolio</title><link>https://thamaraimanalan.tech/tags/linux/</link><description>Recent content in Linux on Thamaraimanalan M - Portfolio</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 10 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://thamaraimanalan.tech/tags/linux/index.xml" rel="self" type="application/rss+xml"/><item><title>WiFi Jammer - Linux Application</title><link>https://thamaraimanalan.tech/blogs/wifi-jammer-linux-application/</link><pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate><guid>https://thamaraimanalan.tech/blogs/wifi-jammer-linux-application/</guid><description>&lt;p&gt;Built a WiFi jammer application for Linux that can jam WiFi access points. This was a learning project to understand network security concepts and GUI Development.&lt;/p&gt;
+&lt;p&gt;The application targets WiFi access points and disrupts their normal operation. It taught me a lot about network protocols, wireless security, and how networks can be vulnerable to certain types of attacks.&lt;/p&gt;
+&lt;h2 id="key-features"&gt;Key features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Linux-based WiFi jamming functionality&lt;/li&gt;
+&lt;li&gt;Easy GUI with Qt Framework&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This project helped me understand the importance of network security and how to protect against such attacks. It&amp;rsquo;s important to note this should only be used for educational purposes and on networks you own or have permission to test.&lt;/p&gt;</description></item><item><title>WiFi Jammer Shell Script</title><link>https://thamaraimanalan.tech/blogs/wifi-jammer-shell-script/</link><pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate><guid>https://thamaraimanalan.tech/blogs/wifi-jammer-shell-script/</guid><description>&lt;p&gt;Wrote a shell script version of the WiFi jammer to explore bash scripting and system-level network operations. This was interesting because it showed how much you can accomplish with simple shell commands.&lt;/p&gt;
+&lt;h2 id="what-the-shell-script-taught-me"&gt;What the shell script taught me&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Initial script to apply my shell scripting knowledge&lt;/li&gt;
+&lt;li&gt;Linux networking tools and utilities&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It&amp;rsquo;s fascinating how different tools can achieve similar results. The shell script version is probably the most lightweight of all my WiFi jammer implementations, requiring minimal dependencies and running efficiently on any Linux system.&lt;/p&gt;</description></item></channel></rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Computer Vision on Thamaraimanalan M - Portfolio</title><link>https://thamaraimanalan.tech/tags/computer-vision/</link><description>Recent content in Computer Vision on Thamaraimanalan M - Portfolio</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 28 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://thamaraimanalan.tech/tags/computer-vision/index.xml" rel="self" type="application/rss+xml"/><item><title>NXP AIM 2025 - Regional Finalist in AI Mobility Challenge</title><link>https://thamaraimanalan.tech/blogs/nxp-aim-2025-regional-finalist/</link><pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate><guid>https://thamaraimanalan.tech/blogs/nxp-aim-2025-regional-finalist/</guid><description>&lt;p&gt;I recently took part in NXP AIM 2025 (Artificial Intelligence in Mobility) and managed to reach the regional finals. Though I didn&amp;rsquo;t win, just getting selected from all the participants felt pretty amazing.&lt;/p&gt;
+&lt;p&gt;The regional finale took place at M.S. Ramaiah Institute of Technology, Bengaluru, which was an exciting experience competing alongside other talented teams from across the region.&lt;/p&gt;
+&lt;p&gt;AIM is basically a competition where engineering students get to work with AI and robotics for mobility applications. We had to build mobile robot prototypes using technologies like AI/ML, object recognition, sensors, computer vision, and obstacle avoidance.&lt;/p&gt;</description></item><item><title>Smart Traffic Management - TechForSociety Hackathon by Siemens &amp; NASSCOM Foundation</title><link>https://thamaraimanalan.tech/blogs/smart-traffic-management-techforsociety-hackathon/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate><guid>https://thamaraimanalan.tech/blogs/smart-traffic-management-techforsociety-hackathon/</guid><description>&lt;p&gt;Currently working on an exciting project as part of the TechForSociety hackathon conducted by Siemens and NASSCOM Foundation. This initiative focuses on developing technology solutions for social impact.&lt;/p&gt;
+&lt;h2 id="project-overview"&gt;Project Overview&lt;/h2&gt;
+&lt;p&gt;Our Smart Traffic Management system is designed to revolutionize traffic control at junctions by automatically detecting emergency vehicles and prioritizing their movement through intelligent signal control.&lt;/p&gt;
+&lt;h2 id="key-features-being-developed"&gt;Key features being developed&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Emergency vehicle detection using YOLO deep learning models&lt;/li&gt;
+&lt;li&gt;Real-time traffic density analysis for optimal flow control&lt;/li&gt;
+&lt;li&gt;Automated signal control integration with Raspberry Pi&lt;/li&gt;
+&lt;li&gt;Sensor-based traffic monitoring and data collection&lt;/li&gt;
+&lt;li&gt;Manual override capability for traffic authorities&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="technical-implementation"&gt;Technical Implementation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Deep Learning&lt;/strong&gt;: YOLO algorithm implementation on Hailo 8L for ambulance detection&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hardware Integration&lt;/strong&gt;: Raspberry Pi for signal control and sensor management&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Frontend&lt;/strong&gt;: QML-based application for authority interface&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Backend&lt;/strong&gt;: Python-powered system for real-time processing&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;IoT Integration&lt;/strong&gt;: Multiple sensors for comprehensive traffic monitoring&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The project timeline spans from October 2024 to April 2025, giving us ample time to develop, test, and refine the system. This hackathon is providing valuable experience in developing technology solutions that can make a real difference in emergency response times and urban traffic management.&lt;/p&gt;</description></item><item><title>Project Eye - AI-Powered Assistive System</title><link>https://thamaraimanalan.tech/blogs/project-eye-ai-assistive-system/</link><pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate><guid>https://thamaraimanalan.tech/blogs/project-eye-ai-assistive-system/</guid><description>&lt;p&gt;Project Eye is an AI-powered assistive system I developed to help people who are blind navigate and interact with their surroundings more independently. This project represents my commitment to using technology for social good and making AI accessible to those who need it most.&lt;/p&gt;
+&lt;h2 id="the-vision"&gt;The Vision&lt;/h2&gt;
+&lt;p&gt;The goal was to create an intelligent system that could serve as digital eyes for visually impaired individuals, helping them understand their environment and navigate safely through the world.&lt;/p&gt;</description></item></channel></rss>

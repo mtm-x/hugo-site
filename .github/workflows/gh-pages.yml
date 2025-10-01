@@ -25,6 +25,12 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
+      - name: Prepare theme
+        run: |
+          cd exampleSite
+          mkdir -p themes
+          ln -s $(pwd)/.. themes/hugo-profile
+
       - name: Build
         run: cd exampleSite && hugo --minify
 

@@ -31,7 +31,7 @@ params:
   useBootstrapCDN: false
   animate: true
   theme:
-    defaultTheme: dark
+    defaultTheme: light
   font:
     fontSize: 1rem
     fontWeight: 400
@@ -73,7 +73,7 @@ params:
       - icon: fab fa-github
         url: https://github.com/mtm-x
       - icon: fab fa-linkedin
-        url: https://www.linkedin.com/in/thamaraimanalan-m-a476392a2/
+        url: https://www.linkedin.com/in/mtm-x
   about:
     enable: true
     title: About Me
@@ -131,8 +131,8 @@ params:
     items:
     - title: Bachelor of Engineering - Electronics and Communication
       school:
-        name: Your College Name
-        url: https://example.com
+        name: Government College of Technology, Coimbatore
+        url: https://www.gct.ac.in
       date: 2022 - 2026
       content: Focusing on embedded systems, IoT, and robotics development. Active
         participation in hackathons and technical competitions.
@@ -234,7 +234,7 @@ params:
       disableFeaturedImage: false
     socialNetworks:
       github: https://github.com/mtm-x
-      linkedin: https://www.linkedin.com/in/thamaraimanalan-m-a476392a2/
+      linkedin: https://www.linkedin.com/in/mtm-x
   listPages:
     disableFeaturedImage: false
   singlePages:

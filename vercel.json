@@ -1,0 +1,5 @@
+{
+  "buildCommand": "cd exampleSite && mkdir -p themes && ln -sf ../../ themes/hugo-profile && hugo --config hugo.yaml --gc --minify",
+  "outputDirectory": "exampleSite/public",
+  "framework": "hugo"
+}

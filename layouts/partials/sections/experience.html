@@ -67,10 +67,20 @@
                                     {{ end }}
                                 </div>
 
-                                {{ if .featuredLink.enable | default false }}
+                                {{ if .featuredLinks }}
+                                {{ range .featuredLinks }}
+                                {{ if .enable | default false }}
+                                <div class="py-1 featuredLink d-inline">
+                                    <a class="p-2 px-4 btn btn-outline-primary btn-sm me-2" href={{ .url | default "#" }} target="_blank">
+                                        {{ .name | default "Featured Link" }}
+                                    </a>
+                                </div>
+                                {{ end }}
+                                {{ end }}
+                                {{ else if .featuredLink.enable | default false }}
                                 <div class="py-2 featuredLink">
                                     <a class="p-2 px-4 btn btn-outline-primary btn-sm" href={{ .featuredLink.url | default "#" }} target="_blank">
-                                        {{ .featuredLink.name | default "Featured Link" }} 
+                                        {{ .featuredLink.name | default "Featured Link" }}
                                     </a>
                                 </div>
                                 {{ end }}
@@ -106,10 +116,20 @@
                                     {{ end }}
                                 </div>
                                 
-                                {{ if .featuredLink.enable | default false }}
+                                {{ if .featuredLinks }}
+                                {{ range .featuredLinks }}
+                                {{ if .enable | default false }}
+                                <div class="py-1 featuredLink d-inline">
+                                    <a class="p-2 px-4 btn btn-outline-primary btn-sm me-2" href={{ .url | default "#" }} target="_blank">
+                                        {{ .name | default "Featured Link" }}
+                                    </a>
+                                </div>
+                                {{ end }}
+                                {{ end }}
+                                {{ else if .featuredLink.enable | default false }}
                                 <div class="py-2 featuredLink">
                                     <a class="p-2 px-4 btn btn-outline-primary btn-sm" href={{ .featuredLink.url | default "#" }} target="_blank">
-                                        {{ .featuredLink.name | default "Featured Link" }} 
+                                        {{ .featuredLink.name | default "Featured Link" }}
                                     </a>
                                 </div>
                                 {{ end }}
